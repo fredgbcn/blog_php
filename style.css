@@ -1,0 +1,54 @@
+h3{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: grey;
+}
+p{
+
+border-radius: 5px;
+}
+
+.contenu{
+
+    border-radius: 5px;
+}
+h3, h4{
+    text-align: center;
+}
+h4{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(204, 198, 198);
+}
+.text{
+    background-color: rgb(245, 236, 236);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.retour{
+    color: rgb(38, 38, 61);
+}
+.container{
+    width: 60%;
+    height: auto;
+    margin:auto;
+}
+#titre_commentaire{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 3px;
+}
+#cross{
+    text-decoration:none;
+    color: white;
+    background-color: rgb(17, 17, 29); 
+    border-radius: 5px;
+    height: 95%;
+    width: 3%;
+    min-width: 20px;
+    margin-right: 3px;
+}
